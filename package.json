@@ -1,6 +1,6 @@
 {
-  "name": "umi-h5-boilerplate",
-  "version": "0.0.0",
+  "name": "umi-h5",
+  "version": "1.0.0",
   "scripts": {
     "start": "umi dev",
     "dev": "umi dev",
